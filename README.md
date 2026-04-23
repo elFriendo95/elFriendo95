@@ -1,17 +1,17 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Pavel 👋
 
-[Brief one-line description of what you do]
+Front-end developer focused on clean, functional web experiences.
 
 ## 🛠️ Tech Stack
-[Languages/Frameworks/Tools you use - keep it minimal]
+HTML · CSS · JavaScript · React · VS Code
 
 ## 📌 Featured Projects
-- **[Project Name]** - Brief one-line description
-- **[Project Name]** - Brief one-line description
-- **[Project Name]** - Brief one-line description
+- **[Portfolio](link)** - Personal site showcasing my work
+- **[Todo App](link)** - Minimal task manager with local storage
+- **[Weather Widget](link)** - Simple forecast display using fetch API
 
 ## 📫 Connect
-[Email] · [LinkedIn] · [Personal Site]
+[Email] · [LinkedIn] · [GitHub]
 
 ---
-*Currently [what you're working on]*
+*Currently building with React*
